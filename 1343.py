@@ -15,7 +15,7 @@ else:
     A=A.split('.')
     for i in range(len(A)):
       if A[i].count('X') % 2 !=0:
-        print(-1) #종
+        print(-1)
         exit()
       elif A[i] == '':
         continue

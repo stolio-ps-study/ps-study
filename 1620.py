@@ -1,5 +1,6 @@
 #1620
-#53
+#53분
+
 
 N,M=map(int,input().split())
 dic_num={}

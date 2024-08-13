@@ -18,7 +18,7 @@ sort_word=[]
 for i in range(len(value_list)):
   sword= [k for k,v in dic.items() if v == value_list[i]]
   if len(sword) > 1:
-    sword.sort()
+    sword.sort() 
     for j in range(0,len(sword)):
       sort_word.append(sword[j])
   elif len(sword) == 1:
