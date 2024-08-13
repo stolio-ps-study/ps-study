@@ -14,8 +14,15 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="13"> <a href="https://www.acmicpc.net/problem/11047">11047 동전 0</a>  
 <img src="https://static.solved.ac/tier_small/8.svg" height="13"> <a href="https://www.acmicpc.net/problem/20920">20920 영단어 암기는 괴로워</a>  
 
+## 실전반
 
-
-
-
-
+<img src="https://static.solved.ac/tier_small/7.svg" height="13"> <a href="https://www.acmicpc.net/problem/1758">1758 알바생 강호</a>  
+<img src="https://static.solved.ac/tier_small/8.svg" height="13"> <a href="https://www.acmicpc.net/problem/20920">20920 영단어 암기는 괴로워</a>  
+<img src="https://static.solved.ac/tier_small/11.svg" height="13"> <a href="https://www.acmicpc.net/problem/1092">1092 배</a>  
+<img src="https://static.solved.ac/tier_small/11.svg" height="13"> <a href="https://www.acmicpc.net/problem/2212">2212 센서</a>  
+<img src="https://static.solved.ac/tier_small/11.svg" height="13"> <a href="https://www.acmicpc.net/problem/13164">13164 행복 유치원</a>  
+<img src="https://static.solved.ac/tier_small/12.svg" height="13"> <a href="https://www.acmicpc.net/problem/2141">2141 우체국</a>  
+<img src="https://static.solved.ac/tier_small/12.svg" height="13"> <a href="https://www.acmicpc.net/problem/13975">13975 파일 합치기 3</a>  
+<img src="https://static.solved.ac/tier_small/13.svg" height="13"> <a href="https://www.acmicpc.net/problem/2143">2143 두 배열의 합</a>  
+<img src="https://static.solved.ac/tier_small/13.svg" height="13"> <a href="https://www.acmicpc.net/problem/2812">2812 크게 만들기</a>  
+<img src="https://static.solved.ac/tier_small/14.svg" height="13"> <a href="https://www.acmicpc.net/problem/1525">1525 퍼즐</a>
