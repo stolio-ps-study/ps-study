@@ -21,5 +21,5 @@ for i in range(n):
             count += 1
     rank.append(count + 1)
 
-for d in ans:
+for d in rank:
     print(d, end=" ")
